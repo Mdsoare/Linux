@@ -1,0 +1,8 @@
+# Use a imagem base do Nginx
+FROM nginx
+
+# Copie o arquivo de configuração nginx.conf para a localização correta
+COPY nginx.conf /etc/nginx/nginx.conf
+
+# Copie o arquivo index.php para o diretório onde o Nginx espera arquivos do servidor web
+COPY index.php /usr/share/nginx/html/index.php
