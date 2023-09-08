@@ -1,14 +1,17 @@
 <h1>
     <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+     <img align="center" width="60px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span>Treinamento Linux</span>
+	<img align="center" width="100px" src="https://hermes.dio.me/tracks/0edd1398-7cee-4295-98cf-8dd5a41d28fb.png">
+ 	<img align="center" width="100px" src="https://hermes.dio.me/tracks/d33ee9c3-8a34-4913-8bfa-d21bdc2109b0.png">
+  	<img align="center" width="100px" src="https://hermes.dio.me/tracks/606823c2-8a73-4655-947d-d41b991baf12.png">	
 </h1>
 
 Repositório criado para fins educativos, com a disponibilização de materiais de apoio dos cursos **Linux do Zero**, **Formação Linux Fundamentals** e **Linux Experience** da [Digital Innovation One](https://www.dio.me/).
 <br>
 <h2>
 <img width="70px" background-color="black" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg">
-	Acesse os cursos na plataforma:
+	Acesse os cursos na plataforma: 
 </h2>
 
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/track/linux-do-zero) 
@@ -16,7 +19,7 @@ Repositório criado para fins educativos, com a disponibilização de materiais 
 
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/track/formacao-linux-fundamentals) 
 [![Link do Curso](https://img.shields.io/badge/Linux%20Fundamentals-E94D5F?style=for-the-badge)](https://web.dio.me/track/formacao-linux-fundamentals) 
-
+ 
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/track/linux-experience) 
 [![Link do Curso](https://img.shields.io/badge/Linux%20Experience-E94D5F?style=for-the-badge)](https://web.dio.me/track/linux-experience) 
 
